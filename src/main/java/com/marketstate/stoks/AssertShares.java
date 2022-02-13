@@ -6,8 +6,8 @@ import java.util.*;
 public class AssertShares {
     // JDBC URL, username and password of MySQL server
     private static final String url = "jdbc:mysql://localhost:3306/marketssearch";
-    private static final String user = "ndsdanil";
-    private static final String password = "80948094Den";
+    private static final String user = "";
+    private static final String password = "";
 
     // JDBC variables for opening and managing connection
     private static Connection con;
