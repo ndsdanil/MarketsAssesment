@@ -3,6 +3,6 @@ package com.marketstate.stoks;
 public class Shares {
     String exchangeName;
     String stockName;
-    int stockPrice$Value;
-    int stockPriceRUBValue;
+    float stockPrice$Value;
+    float stockPriceRUBValue;
 }
