@@ -33,8 +33,8 @@
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files>
-      <object connection-id="cfc8b1c3-fe37-4539-b6e1-3c789a9c070c" object-ref="consoles/SharesDBConnection" />
       <object connection-id="cfc8b1c3-fe37-4539-b6e1-3c789a9c070c" object-ref="schemas/marketssearch/tables/shares" />
+      <object connection-id="cfc8b1c3-fe37-4539-b6e1-3c789a9c070c" object-ref="consoles/SharesDBConnection" />
     </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
