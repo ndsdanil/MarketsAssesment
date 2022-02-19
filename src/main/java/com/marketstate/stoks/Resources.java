@@ -12,6 +12,7 @@ public class Resources {
    private static String google ="https://www.google.com/finance/quote/GOOG:NASDAQ";
    private static String amazon ="https://www.google.com/finance/quote/AMZN:NASDAQ";
    private static String nike ="https://www.google.com/finance/quote/NKE:NYSE";
+   public static String rub ="https://www.google.com/finance/quote/RUB-USD?hl=en";
 
     public static ArrayList<String> getSharesWebResourcesList() {
         webPages.add(apple);
